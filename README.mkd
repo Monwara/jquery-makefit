@@ -18,8 +18,7 @@ Usage
 jQuery makeFit exposes 4 jQuery methods:
 
  + `.relativeTo()` - position elements relative to other elements
- + `.desiredPosition(x, y, resize)` - position as close to desired position as
-   possible
+ + `.desiredPosition()` - position as close to desired position as possible
  + `.containsCursor()` - tell wether element contains the mouse cursor
  + `.drag()` - complete drag (and, optionally, drop) calculations with
    callbacks
