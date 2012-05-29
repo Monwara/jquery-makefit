@@ -1,0 +1,40 @@
+{
+    "name": "jQuery-makeFit",
+    "version": "0.0.1",
+    "title": "jQuery makeFit",
+    "author": {
+        "name": "Monwara LLC"
+        "url": "http://monwara.com/"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.7"
+    },
+    "description": "Geometry calculations and element manipulation for common positioning scenarios",
+    "keywords": [
+        "css",
+        "positioning",
+        "placement",
+        "geometry"
+    ],
+    "homepage": "https://github.com/Monwara/jquery-makefit",
+    "maintainers": [
+        {
+            "name": "Branko Vukelic",
+            "email": "branko@monwara.com"
+            "url": "https://github.com/Monwara"
+        }
+    ],
+    "bugs": { 
+        "url": "https://github.com/Monwara/jquery-makefit/issues",
+        "email": "branko@monwara.com"
+    },
+    "files": [
+        "makefit.js"
+    ]
+}
